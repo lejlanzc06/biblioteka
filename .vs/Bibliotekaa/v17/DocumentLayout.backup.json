@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ESZ\\source\\repos\\Bibliotekaa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A393CD13-F88E-4D13-8185-8EACFEE99745}|Bibliotekaa\\Bibliotekaa.csproj|C:\\Users\\ESZ\\source\\repos\\Bibliotekaa\\bibliotekaa\\komandnatabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A393CD13-F88E-4D13-8185-8EACFEE99745}|Bibliotekaa\\Bibliotekaa.csproj|solutionrelative:bibliotekaa\\komandnatabla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 347,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KomandnaTabla.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ESZ\\source\\repos\\Bibliotekaa\\Bibliotekaa\\KomandnaTabla.cs",
+              "RelativeDocumentMoniker": "Bibliotekaa\\KomandnaTabla.cs",
+              "ToolTip": "C:\\Users\\ESZ\\source\\repos\\Bibliotekaa\\Bibliotekaa\\KomandnaTabla.cs [Design]",
+              "RelativeToolTip": "Bibliotekaa\\KomandnaTabla.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:24:38.025Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 53,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
